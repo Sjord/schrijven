@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Discussie schrijven"
+---
 De discussie bevat de interpretatie en verklaring van resultaten. Je onderzoek en de resultaten daarvan worden besproken en vergeleken met literatuur op dit onderwerp.
 
 
