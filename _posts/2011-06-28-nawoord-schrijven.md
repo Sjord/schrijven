@@ -19,7 +19,7 @@ Een nawoord komt aan het einde van de scriptie, en je schrijft het nawoord ook a
 </p><p>
 Het nawoord is een hoofdstuk van reflectie. Als een nawoord verplicht is, is dat meestal zodat je even blijft stil staan bij wat je geleerd hebt, en om je ervaringen op papier te zetten.
 </p><p>
-In het nawoord kan ook wat je volgende keer anders gaat doen of hoe je blik op de onderzoeksvraag is veranderd. Dit gaat alleen op als het betrekking heeft op jouzelf. Heb je verbeterpunten in je onderzoek of onderwerpen voor verder onderzoek, dan hoort dit in het hoofdstuk <a href="/docs/42/131_Discussie_schrijven.html">Discussie</a>. Ga je je volgende scriptie beter voorbereiden of lijkt het je leuk om volgende keer een soortgelijk onderwerp te behandelen, dan hoort het in het nawoord.
+In het nawoord kan ook wat je volgende keer anders gaat doen of hoe je blik op de onderzoeksvraag is veranderd. Dit gaat alleen op als het betrekking heeft op jouzelf. Heb je verbeterpunten in je onderzoek of onderwerpen voor verder onderzoek, dan hoort dit in het hoofdstuk <a href="/2010/06/17/discussie-schrijven/">Discussie</a>. Ga je je volgende scriptie beter voorbereiden of lijkt het je leuk om volgende keer een soortgelijk onderwerp te behandelen, dan hoort het in het nawoord.
 </p><p>
 De volgende vragen kan je beantwoorden in een nawoord:
 </p>
@@ -33,10 +33,10 @@ De volgende vragen kan je beantwoorden in een nawoord:
 </ul>
 <h2>Lees meer</h2>
 <ul>
-<li><a href="/docs/28/55_Conclusie_schrijven.html">Conclusie schrijven</a></li>
-<li><a href="/docs/42/131_Discussie_schrijven.html">Discussie schrijven</a></li>
-<li>Boek "<a title="Umberto Eco, &euro; 15,00" href="http://www.bol.com/nl/p/nederlandse-boeken/hoe-schrijf-ik-een-scriptie/1001004007505538/index.html">Hoe schrijf ik een scriptie</a>"</li>
-<li>Boek "<a title="Hans van den Heuvel, &euro; 15,00" href="http://www.bol.com/nl/p/nederlandse-boeken/hoe-schrijf-ik-een-scriptie-of-these/1001004007432174/index.html">Hoe schrijf ik een scriptie of these?</a>"</li>
-<li>Boek "<a title="Feijen &amp; Trietsch, &euro; 14,50" href="http://www.bol.com/nl/p/nederlandse-boeken/snel-afstuderen/1001004002729731/index.html">Snel afstuderen</a>"</li>
-<li>Boek "<a title="Coolsma &amp; Schuiling, &euro; 10,00" href="http://www.bol.com/nl/p/nederlandse-boeken/de-kleine-scriptiegids-druk-1/666761248/index.html">De kleine scriptiegids</a>"</li>
+<li><a href="/2009/03/18/conclusie-schrijven/">Conclusie schrijven</a></li>
+<li><a href="/2010/06/17/discussie-schrijven/">Discussie schrijven</a></li>
+<li>Boek "<a title="Umberto Eco, &euro; 15,00" href="https://www.bol.com/nl/p/hoe-schrijf-ik-een-scriptie/1001004007505538/">Hoe schrijf ik een scriptie</a>"</li>
+<li>Boek "<a title="Hans van den Heuvel, &euro; 15,95" href="https://www.bol.com/nl/p/hoe-schrijf-ik-een-scriptie-of-these/1001004007432174/">Hoe schrijf ik een scriptie of these?</a>"</li>
+<li>Boek "<a title="Feijen &amp; Trietsch, &euro; 16,00" href="https://www.bol.com/nl/p/snel-afstuderen/1001004002729731/">Snel afstuderen</a>"</li>
+<li>Boek "<a title="Coolsma &amp; Schuiling, &euro; 10,00" href="https://www.bol.com/nl/p/de-kleine-scriptiegids-druk-1/666761248/">De kleine scriptiegids</a>"</li>
 </ul>
