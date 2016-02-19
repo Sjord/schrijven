@@ -4,7 +4,7 @@ title:  "Inleiding schrijven"
 ---
 In een inleiding plaats je je onderwerp in een context. Je geeft aan waar je scriptie over gaat en je voorziet de lezer van informatie die hij nodig heeft voordat hij aan de kern van je scriptie kan beginnen.
 <p>
-Een inleiding schrijf je als je scriptie al grotendeels af is, samen met je <a href="/docs/28/55_Conclusie_schrijven.html">conclusie</a>. In de inleiding vertel je waar je scriptie over gaat en wat er in staat. De inleiding en de conclusie moeten goed op elkaar aansluiten; de vraag die in de inleiding wordt gesteld wordt beantwoord in de conclusie.
+Een inleiding schrijf je als je scriptie al grotendeels af is, samen met je <a href="/2009/03/18/conclusie-schrijven/">conclusie</a>. In de inleiding vertel je waar je scriptie over gaat en wat er in staat. De inleiding en de conclusie moeten goed op elkaar aansluiten; de vraag die in de inleiding wordt gesteld wordt beantwoord in de conclusie.
 </p><p>
 Een introductie is meestal ongeveer één bladzijde.
 </p>
@@ -46,7 +46,7 @@ In tegenstelling tot een "abstract" geef je in een inleiding niet aan wat er uit
 <h2>Lees meer</h2>
 <ul>
 <li><a href="https://www.scribbr.nl/scriptie-structuur/een-inleiding-schrijven-voor-je-scriptie/">Inleiding schrijven voor je scriptie</a></li>
-<li>Boek "<a title="Francien Schoordijk, &euro; 27,50" href="http://www.bol.com/nl/p/basisvaardigheden-academisch-schrijven/9200000025136177/">Basisvaardigheden academisch schrijven</a>"</li>
-<li>Boek "<a title="Warna Oosterbaan, &euro; 12,50" href="http://www.bol.com/nl/p/een-leesbare-scriptie/9200000025959542/">Een leesbare scriptie</a>"</li>
-<li>Boek "<a href="http://www.bol.com/nl/p/schrijven-kreng/9200000030255223/">Schrijven kreng!</a>"</li>
+<li>Boek "<a title="Francien Schoordijk, &euro; 27,50" href="https://www.bol.com/nl/p/basisvaardigheden-academisch-schrijven/9200000025136177/">Basisvaardigheden academisch schrijven</a>"</li>
+<li>Boek "<a title="Warna Oosterbaan, &euro; 12,50" href="https://www.bol.com/nl/p/een-leesbare-scriptie/9200000025959542/">Een leesbare scriptie</a>"</li>
+<li>Boek "<a href="https://www.bol.com/nl/p/schrijven-kreng/9200000030255223/">Schrijven kreng!</a>"</li>
 </ul>
