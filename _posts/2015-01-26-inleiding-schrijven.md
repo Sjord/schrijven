@@ -3,6 +3,7 @@ layout: post
 title:  "Inleiding schrijven"
 ---
 In een inleiding plaats je je onderwerp in een context. Je geeft aan waar je scriptie over gaat en je voorziet de lezer van informatie die hij nodig heeft voordat hij aan de kern van je scriptie kan beginnen.
+
 <p>
 Een inleiding schrijf je als je scriptie al grotendeels af is, samen met je <a href="/2009/03/18/conclusie-schrijven/">conclusie</a>. In de inleiding vertel je waar je scriptie over gaat en wat er in staat. De inleiding en de conclusie moeten goed op elkaar aansluiten; de vraag die in de inleiding wordt gesteld wordt beantwoord in de conclusie.
 </p><p>
