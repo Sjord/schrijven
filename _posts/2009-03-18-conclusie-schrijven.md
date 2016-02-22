@@ -4,7 +4,6 @@ title:  "Conclusie schrijven"
 ---
 Een scriptie, werkstuk of onderzoeksverslag sluit je af met een conclusie. Hierin vermeld je het antwoord op je onderzoeksvraag. Bij het schrijven van een conclusie is het belangrijk dat je terug pakt op de inleiding, niets beschrijft wat niet eerder in je verslag aan bod is gekomen en je zo duidelijk mogelijk uit een zet welke conclusies er aan jouw onderzoek of scriptie kunnen worden verbonden.
 
-<h1>Conclusie schrijven</h1>
 <h2>Doel van een conclusie</h2>
 <p>
 Een conclusie is de afsluiting van je scriptie. In je conclusie geef je aan welke bevindingen je hebt gedaan door middel van je onderzoek. Er kan ook in staan welke aanbevelingen je doet naar aanleiding van je onderzoek en welk onderzoek er op dit gebied nog meer mogelijk is in de toekomst.

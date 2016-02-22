@@ -5,8 +5,6 @@ title:  "Discussie schrijven"
 De discussie bevat de interpretatie en verklaring van resultaten. Je onderzoek en de resultaten daarvan worden besproken en vergeleken met literatuur op dit onderwerp.
 
 
-<h1>Discussie schrijven</h1>
-
 <p>
 De discussie bevat de <b>interpretatie en verklaring van resultaten</b>. Je onderzoek en de resultaten daarvan worden besproken en vergeleken met literatuur op dit onderwerp.
 </p>

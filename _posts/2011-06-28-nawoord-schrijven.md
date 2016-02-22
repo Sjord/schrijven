@@ -4,7 +4,6 @@ title:  "Nawoord schrijven"
 ---
 Het nawoord bevat informatie die pas tijdens het schrijven naar voren kwam en die leidt tot een veranderde opvatting over de hoofdvraag. Soms wordt het nawoord gebruikt om te vertellen wat je zelf vond van het schrijven van de scriptie.
 
-<h1>Nawoord schrijven</h1>
 <p>Een nawoord is een terugblik op je scriptie of werkstuk. In je nawoord plaats je:
 </p>
 <ul>
